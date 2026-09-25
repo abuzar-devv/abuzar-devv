@@ -1,4 +1,4 @@
-Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student , working on API automation and AI-native GTM tooling.
+Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student , working on AI automations and AI-native GTM tooling.
 
 ## Skills & Technologies
 

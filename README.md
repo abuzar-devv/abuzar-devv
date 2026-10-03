@@ -1,4 +1,4 @@
-Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student , working on AI automations and AI-native GTM tooling.
+Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student.
 
 ## Skills & Technologies
 
@@ -7,4 +7,4 @@ Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student , working on
 | **Programming & Data** | Python, Java, NumPy, Pandas, Object-Oriented Programming |
 | **Mathematics** | Calculus, Discrete Mathematics |
 | **APIs & Integration** | REST APIs, HTTP, JSON, API Authentication |
-| **Currently Learning** | Linear Algebra for Machine Learning, MCP Servers, AI-native GTM Solutions |
+| **Currently Learning** | FastAPI, Linear Algebra for Machine Learning, MCP Servers, AI-native GTM Workflows |

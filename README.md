@@ -4,7 +4,6 @@ Hey, I'm Abu Zar — a sophomore Mathematics & Data Science student.
 
 | Domain | Technologies & Concepts |
 |---|---|
-| **Programming & Data** | Python, Java, NumPy, Pandas, Object-Oriented Programming |
+| **Programming & Data** | Python,NumPy, Pandas, Object-Oriented Programming in java |
 | **Mathematics** | Calculus, Discrete Mathematics |
-| **APIs & Integration** | REST APIs, HTTP, JSON, API Authentication |
-| **Currently Learning** | FastAPI, Linear Algebra for Machine Learning, MCP Servers, AI-native GTM Workflows |
+| **Currently Learning** | APIs development, Linear Algebra for Machine Learning, MCP Servers, AI-native GTM Workflows|
